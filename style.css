@@ -47,11 +47,11 @@ body {
     font-size: 24px;
 }
 .apresentacao__links__link{
-    /*background-color: #51C6FC;*/
     border: 2px solid #51C6FC ;
-    width: 378px;
+    width: 280px;
     border-radius:  8px; 
     text-align: center;
+    align-items: center;
     font-size: 24px;
     font-weight: 600;
     padding: 21.5px 0;
