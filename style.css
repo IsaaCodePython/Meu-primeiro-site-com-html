@@ -62,6 +62,10 @@ body {
     color: #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
+.tamanho__botoes {
+    width: 24px; /* Ajuste a largura conforme necessário */
+    height: auto;
+}
 h1{
     font-weight: bold;
 }
