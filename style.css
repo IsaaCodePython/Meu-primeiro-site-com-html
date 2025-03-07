@@ -62,6 +62,9 @@ body {
     color: #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
+.apresentacao__links__link:hover {
+    background-color: #5159FC;
+}
 .tamanho__botoes {
     width: 24px; /* Ajuste a largura conforme necessário */
     height: auto;
