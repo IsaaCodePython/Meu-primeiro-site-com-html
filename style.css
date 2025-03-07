@@ -73,8 +73,8 @@ p {
     color: #51C6FC;
 }
 img {
-    max-width: 100%; /* Largura máxima de 100% do container */
-    height: auto;
+        width: 50%;
+    
 }
 header {
     background-color: #5159FC;
