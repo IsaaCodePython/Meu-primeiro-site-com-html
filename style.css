@@ -103,6 +103,7 @@ header {
 .cabecalho__menu__link{
 display: flex;
 padding: 15%, 50%;
+justify-content: space-between;
 text-decoration: none;
 }
 
