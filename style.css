@@ -98,6 +98,7 @@ font-weight: 600;
     
 }
 .cabecalho__menu__link{
+    align-items: center;
     padding: 10px 15px;
     text-decoration: none;
     color: antiquewhite;
