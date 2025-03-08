@@ -88,14 +88,11 @@ img {
 }
 header {
     background-color: #5159FC;
-    color: white;
-    font-family: 'Montserrat', 'sans-serif';
-    font-weight: 400;
-    text-align: center;
 
 }
 .cabecalho {
-font-family: 'Montserrat', 'sans Serif';
+font-family: 'Montserrat', 'sans-serif';
+font-weight: 600;
 }
 .cabecalho__menu {
     
