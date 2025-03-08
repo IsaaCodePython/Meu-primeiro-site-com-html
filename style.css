@@ -95,7 +95,6 @@ background-color: #5159FC;
 .cabecalho__menu {
 display: flex;
 gap: 80px;
-align-items: center;
 
 }
 .cabecalho__menu__link{
