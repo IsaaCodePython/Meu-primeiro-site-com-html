@@ -98,7 +98,9 @@ header {
 
 }
 .cabecalho__menu {
-
+    display: flex;
+    align-items: center;
+    flex-direction: row;
 }
 .cabecalho__menu__link{
 display: flex;
