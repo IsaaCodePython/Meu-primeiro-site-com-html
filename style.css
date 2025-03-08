@@ -15,7 +15,7 @@ body {
     display:flex;
     justify-content: space-between;;
     align-items: center;
-    padding: 05% 10%;
+    padding: 05% 05%;
 }
 .apresentacao__conteudo{
     width: 615px;
