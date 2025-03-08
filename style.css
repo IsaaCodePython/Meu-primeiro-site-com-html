@@ -89,6 +89,8 @@ img {
 header {
     background-color: #5159FC;
     color: white;
+    font-family: 'Montserrat', 'sans-serif';
+    font-weight: 400;
 }
 footer {
     background-color: #5190FC;
