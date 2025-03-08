@@ -86,22 +86,20 @@ img {
         width: 40%;
     
 }
-header {
-    background-color: #5159FC;
 
-}
 .cabecalho {
 padding: 2% 0% 0% 10%;;
+background-color: #5159FC;
 
 }
 .cabecalho__menu {
-    display: flex;
-    gap: 80px;
+display: flex;
+gap: 80px;
 }
 .cabecalho__menu__link{
-    font-family: 'Montserrat', 'sans-serif';
-    font-weight: 600;
-  
+font-family: 'Montserrat', 'sans-serif';
+font-weight: 600;
+text-decoration: none;
    
     }
 
