@@ -95,13 +95,15 @@ header {
 
 }
 .cabecalho {
-
+font-family: 'Montserrat', 'sans Serif';
 }
 .cabecalho__menu {
     
 }
 .cabecalho__menu__link{
     padding: 10px 15px;
+    text-decoration: none;
+    color: antiquewhite;
     }
 
 footer {
