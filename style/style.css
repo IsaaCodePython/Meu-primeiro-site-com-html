@@ -135,14 +135,20 @@ footer {
     }
     .cabecalho__menu {
         justify-content: center;
-        gap: 30px;
+        
     }
     .cabecalho__menu__link{
         font-size: 1.8 rem;
+        gap: 30px;
     }
     }
     @media (max-width: 320px) {
     .cabecalho__menu__link{
-    font-size: 1 rem;    
+    font-size: 1 rem;
+    gap: 20px;    
+    }
+    .cabecalho {
+        padding:8%;
+        width:auto;
     }
 }
