@@ -21,6 +21,7 @@ body {
     justify-content: space-around ;
     align-items: center;
     padding: 05% 05%;
+    gap: 82px;
 }
 .apresentacao__conteudo{
     width: 50%;
