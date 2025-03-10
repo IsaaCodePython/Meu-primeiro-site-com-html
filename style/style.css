@@ -35,7 +35,7 @@ body {
       }
 
 .apresentacao__conteudo__texto{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: "Montserrat", sans-serif;
 }
 .apresentacao__links{
@@ -49,7 +49,7 @@ body {
 .apresentacao__links__subtitulos{
     font-family: 'krona One', 'sans-serif';
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .apresentacao__links__link{
     display: flex;
@@ -60,7 +60,7 @@ body {
     width: 380px;
     border-radius:  8px; 
     text-align: center;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
@@ -115,7 +115,7 @@ footer {
     color: white;
     text-align: center;
     font-family: 'Montserrat', sans-serif ;
-    font-size: 24px;
+    font-size: 1.5rem;
     padding: 26px;
     font-weight: 400px;
 }
