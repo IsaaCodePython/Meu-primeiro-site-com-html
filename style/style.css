@@ -87,10 +87,6 @@ p {
 .texto-destaque {
     color: #22D4FD;
 }
-img {
-        width: 40%;
-    
-}
 
 .cabecalho {
 padding: 2% 0% 0% 7%;;
@@ -109,6 +105,10 @@ text-decoration: none;
 color: antiquewhite;   
 text-align: center;
     }
+
+.apresntacao__imagem {
+    width: 50%;
+}
 
 footer {
     background-color: #5159FC;
