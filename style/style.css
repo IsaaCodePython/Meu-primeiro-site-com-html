@@ -109,7 +109,7 @@ text-align: center;
     }
 
 .apresntacao__imagem {
-    width: auto;
+    width: 50%;
 }
 
 footer {
@@ -153,6 +153,7 @@ footer {
     .cabecalho__menu {
         display: flex;
         gap: 10px;
-    
         }
+    .apresntacao__imagem {
+    width: 60%;
 }
