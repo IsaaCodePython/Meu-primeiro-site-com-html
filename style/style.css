@@ -126,10 +126,11 @@ footer {
         padding: 5%;
     }
     .apresentacao__conteudo {
-        width: 100%;
+        width: auto;
     }
     .cabecalho {
-        padding:10% 
+        padding:10%;
+        width:auto;
     }
     .cabecalho__menu {
         justify-content: center;
