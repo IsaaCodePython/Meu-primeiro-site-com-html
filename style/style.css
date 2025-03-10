@@ -120,7 +120,7 @@ footer {
     padding: 26px;
     font-weight: 400px;
 }
-@media (width: 1200px) {
+@media (max-width: 1200px) {
     .apresentacao {
         flex-direction: column-reverse;
     }
