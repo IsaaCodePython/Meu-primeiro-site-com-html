@@ -144,11 +144,15 @@ footer {
     }
     @media (max-width: 320px) {
     .cabecalho__menu__link{
-    font-size: 1 rem;
-    gap: 10px;    
+    font-size: 0.5 rem;  
     }
     .cabecalho {
         padding:5%;
         width:auto;
     }
+    .cabecalho__menu {
+        display: flex;
+        gap: 10px;
+    
+        }
 }
