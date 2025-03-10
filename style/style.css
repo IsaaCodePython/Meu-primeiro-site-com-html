@@ -141,3 +141,7 @@ footer {
         font-size: 1.8 rem;
     }
     }
+    @media (max-width: 320px) {
+        .cabecalho__menu__link{
+            font-size: 1 rem;    
+    }
